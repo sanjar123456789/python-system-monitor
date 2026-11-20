@@ -6,3 +6,4 @@ __pycache__/
 *.pid
 *-report.txt
 report.txt
+!branch-report.txt
